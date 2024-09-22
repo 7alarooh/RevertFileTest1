@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 revert for commit
 
 To revert a commit in Git,
@@ -8,5 +7,3 @@ To revert a commit in Git,
  Here's how to do it:
 
 Steps to Revert a Commit:
-=======
->>>>>>> parent of 741e643 (revert for commit)
