@@ -1,5 +1,1 @@
 revert for commit
-
-To revert a commit in Git, you can use the git revert command.
- This command creates a new commit that undoes the changes introduced by a specific commit,
- while preserving the project's history. Here's how to do it:
